@@ -1,3 +1,4 @@
 # Transpa
-¡Hello Word!
-Hello Word!
+¡Hello World!
+Hello World!
+print('hello world')
